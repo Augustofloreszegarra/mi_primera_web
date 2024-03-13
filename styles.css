@@ -19,6 +19,11 @@ header {
   align-items: center;
   padding-left: 1em;
 }
+
+nav ul {
+  color: #eaedf0;
+}
+
 #check {
   display: none;
 }
